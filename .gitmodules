@@ -1,0 +1,3 @@
+[submodule "Ktisis"]
+	path = Ktisis
+	url = https://github.com/ktisis-tools/Ktisis.git
